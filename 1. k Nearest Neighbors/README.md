@@ -1,3 +1,6 @@
+## _k_ Nearest Neighbors (_k_NN)
+Given a test image, the _k_NN algorithm inspects the labels of the image's _k_ Two black-box techniques will be employed to solve the above two environments by means of direct policy optimization: <br /><br />
+
 ## Environment
 We use the following environments to demonstrate how black-box techniques can directly optimize an agent's policies: <br /><br />
 Environment 1: <br />

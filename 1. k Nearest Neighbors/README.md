@@ -1,4 +1,4 @@
-## _k_ Nearest Neighbors (_k_NN)
+## _k_ Nearest Neighbors (_k_ NN)
 Given a test image, the _k_NN algorithm inspects the labels of the image's _k_ Two black-box techniques will be employed to solve the above two environments by means of direct policy optimization: <br /><br />
 
 ## Environment

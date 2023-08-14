@@ -3,7 +3,7 @@ We use the following classification models to classify images into different cla
 Support Vector Machine (SVM): <br />
 A SVM Classifier will be implemented with a fully-vectorized loss-function, which will be optimized using stochastic gradient descent (SGD). <br /><br />
 Softmax Classifier: <br />
-A Softmax Classifier will be implemented with a softmax loss-function, which will be optimized using SGD. <br />
+A Softmax Classifier will be implemented with a softmax loss-function, which will be optimized using SGD. <br /><br />
 Deep fully-connected neural network: <br />
 
 All the above classification models will unravel an image into a row vector before classifying it, resulting in a loss of spatial information and low accuracies. However, the accuracies will be higher than what resulted from the use of the _k_ nearest neighbors algorithm. <br /><br />

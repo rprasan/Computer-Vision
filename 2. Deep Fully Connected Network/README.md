@@ -5,7 +5,7 @@ A SVM Classifier will be implemented with a fully-vectorized loss-function, whic
 **Softmax Classifier:** <br />
 A Softmax Classifier will be implemented with a softmax loss-function, which will be optimized using SGD. <br /><br />
 **Fully-connected deep neural network:** <br />
-A deep neural network with fully-connected layers is designed and trained using a softmax loss-function and L<sub>2</sub> regularization. The network will use a ReLU activation in its hidden neurons, and the overall architecture is as follows: <br />
+A deep neural network with fully-connected layers is trained using a Softmax loss-function and an L<sub>2</sub> regularizer. The network uses a non-linear ReLU activation in its hidden layer. The network's architecture is: <br />
 I/P-FC-ReLU-FC-Softmax <br /><br />
 
 All the above classification models will unravel an image into a row vector before classifying it, resulting in a loss of spatial information and low accuracies. However, the accuracies will be higher than what resulted from the use of the _k_ nearest neighbors algorithm. <br /><br />

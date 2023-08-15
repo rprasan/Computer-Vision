@@ -24,6 +24,7 @@ The dataset used in this experiment is CIFAR-10, which is a collection of 60,000
 ![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/2.%20Softmax/ValAccuracy.png) <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/2.%20Softmax/FinalWeights.png) <br /><br />
 **Fully-connected deep neural network:** <br />
-![]() <br />
-![]() <br />
+Training progress for hidden layer sizes of 2, 8, 32, and 128 when α=0.1 and =0.001
+![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/3.%20DNN/TrainAccuracy1.png) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/3.%20DNN/ValAccuracy1.png) <br />
 ![]() <br />

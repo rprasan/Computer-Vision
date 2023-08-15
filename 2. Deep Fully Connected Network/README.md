@@ -16,11 +16,11 @@ The dataset used in this experiment is CIFAR-10, which is a collection of 60,000
 **Support Vector Machine (SVM):** <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/1.%20SVM/TrainAccuracy.png) <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/1.%20SVM/ValAccuracy.png) <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/1.%20SVM/FinalWeights.png) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/1.%20SVM/FinalWeights.png) <br /><br />
 **Softmax Classifier:** <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/2.%20Softmax/TrainAccuracy.png) <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/2.%20Softmax/ValAccuracy.png) <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/2.%20Softmax/FinalWeights.png) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/2.%20Softmax/FinalWeights.png) <br /><br />
 **Fully-connected deep neural network:** <br />
 ![]() <br />
 ![]() <br />

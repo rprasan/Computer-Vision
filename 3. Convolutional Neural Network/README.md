@@ -1,8 +1,9 @@
 ## Classification models
 We use the following classification models to classify images into different classes: <br /><br />
 **Fully-connected deep neural network:** <br />
-A deep neural network with fully-connected layers is trained separately using the optimizers - RMSProp and Adam - and dropout regularization. The network uses non-linear ReLU activations in its hidden layer, and its architecture is as follows: <br /><br />
-I/P-
+A deep neural network with fully-connected layers is trained separately using the optimizers - RMSProp and Adam - and dropout regularization. The network uses non-linear ReLU activations in its hidden layer, and its architecture is: <br />
+I/P-FC-ReLU-FC-ReLU-FC-ReLU-FC-ReLU-FC-ReLU-FC-Softmax <br />
+Each FC hidden layer has 100 neurons in it.<br /><br />
 **Convolutional neural network (CNN):** <br />
 <br /><br />
 

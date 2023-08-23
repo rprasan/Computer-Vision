@@ -11,7 +11,7 @@ The dataset used in this experiment is CIFAR-10, which is a collection of 60,000
 
 ## Results
 **Fully-connected deep neural network:** <br />
-Training and validation progress corresponding to different weight optimizers for a deep FC neural network with architecture:
+Training and validation progress corresponding to different weight optimizers for a deep FC neural network with architecture:<br />
 I/P-FC-ReLU-FC-ReLU-FC-ReLU-FC-ReLU-FC-ReLU-FC-Softmax <br />
 and 100 neurons in each of its hidden layers: <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/3.%20Convolutional%20Neural%20Network/Results/1.%20Fully-conected%20neural%20network/Progress1.png) <br />

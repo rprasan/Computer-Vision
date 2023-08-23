@@ -3,6 +3,7 @@ We use the following classification models to classify images into different cla
 **Fully-connected deep neural network:** <br />
 A deep neural network with fully-connected layers is trained separately using the optimizers - SGD with momentum, RMSProp, and Adam - and dropout regularization. The network uses non-linear ReLU activations in its hidden layers.<br /><br />
 **Convolutional neural network (CNN):** <br />
+A CNN with VGG-style architecture - a convolution layer with a 3x3 kernel and a padding size of 1 followed by a maxpooling layer with a 2x2 kernel and a stride of 2 - is trained 
 <br /><br />
 
 ## Dataset

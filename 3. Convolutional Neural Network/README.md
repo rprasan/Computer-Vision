@@ -18,6 +18,7 @@ and 100 neurons in each of its hidden layers: <br />
 Training and validation progress corresponding to different drop-out probabilities for deep FC neural networks with widths of 256 and 512 neurons:<br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/3.%20Convolutional%20Neural%20Network/Results/1.%20Fully-conected%20neural%20network/Progress2.png) <br /><br />
 **Convolutional neural network (CNN):** <br />
-Training and validation progress of a VGG-type CNN
+Effect of batch-normalization on the progress of network training and validation: <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/3.%20Convolutional%20Neural%20Network/Results/2.%20Convolutional%20neural%20network/Progress1.png) <br />
-![https://github.com/rprasan/Computer-Vision/blob/main/3.%20Convolutional%20Neural%20Network/Results/2.%20Convolutional%20neural%20network/Progress2.png]() <br /><br />
+Effect of batch-normalization and learning rate variations on the progress of network training and validation: <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/3.%20Convolutional%20Neural%20Network/Results/2.%20Convolutional%20neural%20network/Progress2.png) <br /><br />

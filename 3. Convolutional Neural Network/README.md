@@ -19,6 +19,5 @@ Training and validation progress corresponding to different drop-out probabiliti
 ![](https://github.com/rprasan/Computer-Vision/blob/main/3.%20Convolutional%20Neural%20Network/Results/1.%20Fully-conected%20neural%20network/Progress2.png) <br /><br />
 **Convolutional neural network (CNN):** <br />
 Training and validation progress of a VGG-type CNN
-![]() <br />
-![]() <br />
-![]() <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/3.%20Convolutional%20Neural%20Network/Results/2.%20Convolutional%20neural%20network/Progress1.png) <br />
+![https://github.com/rprasan/Computer-Vision/blob/main/3.%20Convolutional%20Neural%20Network/Results/2.%20Convolutional%20neural%20network/Progress2.png]() <br /><br />

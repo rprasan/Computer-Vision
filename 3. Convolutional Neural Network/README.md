@@ -3,8 +3,7 @@ We use the following classification models to classify images into different cla
 **Fully-connected deep neural network:** <br />
 A deep neural network with fully-connected layers is trained separately using the optimizers - SGD with momentum, RMSProp, and Adam - and dropout regularization. The network uses non-linear ReLU activations in its hidden layers.<br /><br />
 **Convolutional neural network (CNN):** <br />
-A CNN with VGG-style architecture - a convolution layer with a 3x3 kernel and a padding size of 1 followed by a maxpooling layer with a 2x2 kernel and a stride of 2 - is trained 
-<br /><br />
+A CNN with VGG-style network architecture - a convolution layer with a 3x3 kernel and a padding size of 1 followed by a max-pooling layer with a 2x2 kernel and a stride of 2 - is trained using Adam optimizer. <br /><br />
 
 ## Dataset
 The dataset used in this experiment is CIFAR-10, which is a collection of 60,000 3x32x32 images, each belonging to one of ten pre-defined labels: _plane_, _car_, _bird_, _cat_, _deer_, _dog_, _frog_, _horse_, _ship_, and _truck_. <br />

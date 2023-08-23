@@ -13,7 +13,7 @@ The dataset used in this experiment is CIFAR-10, which is a collection of 60,000
 
 ## Results
 **Fully-connected deep neural network:** <br />
-Training progress for hidden layer sizes of 2, 8, 32, and 128 when α=1e-1 and λ=1e-3: <br />
+Training and validation progress for different weight optimizers are: <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/3.%20DNN/TrainAccuracy1.png) <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/2.%20Deep%20Fully%20Connected%20Network/Results/3.%20DNN/ValAccuracy1.png) <br />
 Training progress for λ=0, 1e-5, 1e-3, and 1e-1 when α=1e-1 and the hidden layer size is 128: <br />

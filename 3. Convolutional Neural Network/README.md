@@ -15,7 +15,7 @@ Training and validation progress corresponding to different weight optimizers fo
 I/P-FC-ReLU-FC-ReLU-FC-ReLU-FC-ReLU-FC-ReLU-FC-Softmax <br />
 and 100 neurons in each of its hidden layers: <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/3.%20Convolutional%20Neural%20Network/Results/1.%20Fully-conected%20neural%20network/Progress1.png) <br />
-Training and validation progress corresponding to different drop-out probabilities for a deep FC neural network with a width of 256 neurons:<br />
+Training and validation progress corresponding to different drop-out probabilities for deep FC neural networks with widths of 256 and 512 neurons:<br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/3.%20Convolutional%20Neural%20Network/Results/1.%20Fully-conected%20neural%20network/Progress2.png) <br />
 **Convolutional neural network (CNN):** <br />
 ![]() <br />

@@ -21,4 +21,4 @@ Next, the code loops through a range of detection thresholds *T*. During each it
 **Threshold image for *T*=150**  <br />
 ![]() <br /><br />
 **Execution terminal**  <br />
-![]() <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/2.%20Optical%20Character%20Recognition/Results/ExecutionWindow.png) <br /><br />

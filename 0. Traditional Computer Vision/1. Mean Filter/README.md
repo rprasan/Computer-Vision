@@ -1,7 +1,7 @@
 ## Description
 The code implements three versions of the following 7x7 mean filter kernel: <br />
 $$f=\frac{1}{7^2} $$```math
-\begin{bmatrix}X\\Y\end{bmatrix}
+f=\begin{bmatrix}X\\Y\end{bmatrix}
 ```
 
 While the first version carries out basic 2D convolution of an I/P image, the second and the third versions carry out separable filtering (using 1x7 and 7x1 sub-filters) and separable filtering with a sliding window respectively.  <br /><br />

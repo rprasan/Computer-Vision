@@ -8,6 +8,6 @@ Although all three versions will yield the exact same O/P image, the execution t
 **Filtered O/P image** <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/1.%20Mean%20Filter/Results/CV2.jpg) <br /><br />
 **Time complexity of each filter kernel version** <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/1.%20Mean%20Filter/Results/CV3.jpg) <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/1.%20Mean%20Filter/Results/Result_1.png) <br /><br />
 **Identity of all three O/P image versions**  <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/1.%20Mean%20Filter/Results/CV4.jpg) <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/1.%20Mean%20Filter/Results/Result_2.png) <br /><br />

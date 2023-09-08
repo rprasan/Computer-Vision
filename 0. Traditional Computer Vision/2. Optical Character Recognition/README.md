@@ -9,16 +9,18 @@ Next, the code loops through a range of detection thresholds *T*. During each it
 
 ## Results
 **I/P image** <br />
-![]() <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/2.%20Optical%20Character%20Recognition/Results/CV1.png) <br /><br />
 **Template image** <br />
-![]() <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/2.%20Optical%20Character%20Recognition/Results/CV2.png) <br /><br />
 **Normalized MSF image** <br />
-![]() <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/2.%20Optical%20Character%20Recognition/Results/CV3.png) <br /><br />
 **ROC curve**  <br />
-![]() <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/2.%20Optical%20Character%20Recognition/Results/CV1.png) <br /><br />
 **Threshold image for *T*=211**  <br />
-![]() <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/2.%20Optical%20Character%20Recognition/Results/CV5.png) <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/2.%20Optical%20Character%20Recognition/Results/CV6.png) <br /><br />
 **Threshold image for *T*=150**  <br />
-![]() <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/2.%20Optical%20Character%20Recognition/Results/CV7.png) <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/2.%20Optical%20Character%20Recognition/Results/CV8.png) <br /><br />
 **Execution terminal**  <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/2.%20Optical%20Character%20Recognition/Results/ExecutionWindow.png) <br /><br />

@@ -1,8 +1,6 @@
 ## Description
 The code implements three versions of the following 7x7 mean filter kernel: <br />
-$$f=\frac{1}{7^2} $$
-
-```math
+$$f=\frac{1}{7^2} $$```math
 \begin{bmatrix}X\\Y\end{bmatrix}
 ```
 

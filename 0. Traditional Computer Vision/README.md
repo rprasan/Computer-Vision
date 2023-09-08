@@ -6,3 +6,5 @@ This repository contains codes written in C for solving various computer vision 
 1. Region interaction <br />
 1. Motion tracking <br />
 1. Active contours <br />
+
+NB: Repo is being updated

@@ -5,7 +5,7 @@ The goal is to calibrate a camera network using several calibration targets plac
 P=RP_W+T
 ```
 ```math
-\implies\begin{bmatrix}X\\Y\\Z\end{bmatrix}=
+\implies\begin{bmatrix}X\\Y\\Z\end{bmatrix}=\begin{bmatrix}r_{11} & r_{12} & r_{13}\\r_{21} & r_{22} & r_{23}\\r_{31} & r_{32} & r_{33}\end{bmatrix}+\begin{bmatrix}X_W\\Y_W\\Z_W\end{bmatrix}+\begin{bmatrix}T_x\\T_y\\T_z\end{bmatrix}
 ```
 2. 
 

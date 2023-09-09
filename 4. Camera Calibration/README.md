@@ -2,7 +2,10 @@
 The goal is to calibrate a camera network using several calibration targets placed in a grid. The calibration process will make use of the Tsai camera calibration model, which is composed of the following steps: <br />
 1. World coordinates to camera coordinates:
 ```math
-\begin{bmatrix}X\\Y\\Z\end{bmatrix}=
+P=RP_W+T
+```
+```math
+\implies\begin{bmatrix}X\\Y\\Z\end{bmatrix}=
 ```
 2. 
 

@@ -11,7 +11,7 @@ $$\theta=cos^{-1}\biggl(\\frac{\overrightarrow{A}\cdot \overrightarrow{B}}{|a||b
 When the code's execution reaches a point where no new pixels can be added to a growing region, the region is considered to have fully grown and evolved into an image segment.
 
 # Results:
-**Grayscale image of the object:** <br />
+**Reflectance image of the object:** <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/5.%20Range%20Image%20Segmentation/Results/CV2.PNG) <br /><br />
 **Range image of the object:** <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/5.%20Range%20Image%20Segmentation/Results/CV1.PNG) <br /><br />

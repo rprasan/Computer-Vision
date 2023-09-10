@@ -8,7 +8,7 @@ P=RP_W+T
 ```math
 \implies\begin{bmatrix}X\\Y\\Z\end{bmatrix}=\begin{bmatrix}r_{11} & r_{12} & r_{13}\\r_{21} & r_{22} & r_{23}\\r_{31} & r_{32} & r_{33}\end{bmatrix}+\begin{bmatrix}X_W\\Y_W\\Z_W\end{bmatrix}+\begin{bmatrix}T_x\\T_y\\T_z\end{bmatrix}
 ```
-where *P*, *R*, *P_W*, and *T* are the coordinates of the point in the camera coordinate system, the rotation matrix, the coordinates of the point in the world coordinate system, and the translation matrix. <br />
+where *P*, *R*, *P_W*, and *T* are the coordinates of the point in the camera coordinate system, the rotation matrix, the coordinates of the point in the world coordinate system, and the translation matrix. <br /><br />
 **Camera coordinates to ideal undistorted pixel coordinates:** <br />
 Applying the concept of similarity of triangles to below image yields:
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV2.PNG) <br />
@@ -16,7 +16,7 @@ $$\frac{X}{Z}=\frac{X_u}{f}$$
 $$\frac{Y}{Z}=\frac{Y_u}{f}$$
 $$\impliesX_u=f\frac{X}{Z}$$
 $$\impliesY_u=f\frac{Y}{Z}$$
-where *X_u* and *Y_u* are the undistorted pixel coordinates of the point and *f* if the camera's focal distance. <br />
+where *X_u* and *Y_u* are the undistorted pixel coordinates of the point and *f* if the camera's focal distance. <br /><br />
 **Ideal undistorted pixel coordinates to real (distorted) pixel coordinates:** <br />
 Radial distortions, as illustrated in the below figure, can be corrected by employing the following mathematical expressions: <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV3.PNG) <br />

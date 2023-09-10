@@ -5,19 +5,19 @@ Tracking the iPhone's motion will require segmenting both sensor data into perio
 ## Results
 **Raw accelerometer data:** <br />
 *X*-axis: <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam0_World.png) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/4.%20Motion%20Tracking/Results/1_1.png) <br />
 *Y*-axis: <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam1_World.png) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/4.%20Motion%20Tracking/Results/1_2.png) <br />
 *Z*-axis: <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam2_World.png) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/4.%20Motion%20Tracking/Results/1_3.png) <br />
 All three axes combined: <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam3_World.png) <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/4.%20Motion%20Tracking/Results/1_4.png) <br /><br />
 **Raw gyroscope data:** <br />
 Change in *pitch*: <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam0.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/4.%20Motion%20Tracking/Results/2_1.png) <br />
 Change in *roll*: <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam1.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/4.%20Motion%20Tracking/Results/2_2.png) <br />
 Change in *yaw*: <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam2.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/4.%20Motion%20Tracking/Results/2_3.png) <br />
 All three changes combined: <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam3.PNG) <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/4.%20Motion%20Tracking/Results/2_4.png) <br /><br />

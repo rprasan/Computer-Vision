@@ -14,8 +14,8 @@ Applying the concept of similarity of triangles to below image yields:
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV2.PNG) <br />
 $$\frac{X}{Z}=\frac{X_u}{f}$$
 $$\frac{Y}{Z}=\frac{Y_u}{f}$$
-$$\impliesX_u=f\frac{X}{Z}$$
-$$\impliesY_u=f\frac{Y}{Z}$$
+$$\implies X_u=f\frac{X}{Z}$$
+$$\implies Y_u=f\frac{Y}{Z}$$
 where *X_u* and *Y_u* are the undistorted pixel coordinates of the point and *f* if the camera's focal distance. <br /><br />
 **Ideal undistorted pixel coordinates to real (distorted) pixel coordinates:** <br />
 Radial distortions, as illustrated in the below figure, can be corrected by employing the following mathematical expressions: <br />

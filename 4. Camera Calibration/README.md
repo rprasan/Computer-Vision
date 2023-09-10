@@ -44,9 +44,9 @@ where $C_X$ and $C_Y$ denote the center of the frame in the hardware, $\frac{N_{
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam4.PNG) <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam5.PNG) <br /><br />
 **Undistorted images:** <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam0.PNG) <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam1.PNG) <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam2.PNG) <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam3.PNG) <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam4.PNG) <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam5.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV1.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV2.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV3.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV4.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV5.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV6.PNG) <br /><br />

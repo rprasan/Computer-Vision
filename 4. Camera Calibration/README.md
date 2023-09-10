@@ -37,3 +37,9 @@ where $C_X$ and $C_Y$ denote the center of the frame in the hardware, $\frac{N_{
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam3_World.png) <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam5_World.png) <br />
 **The grids as detected by the cameras:** <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam0.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam1.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam2.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam3.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam4.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/1_GridCam5.PNG) <br />

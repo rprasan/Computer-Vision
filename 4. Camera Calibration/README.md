@@ -22,7 +22,7 @@ Radial distortions, as illustrated in the below figure, can be corrected by empl
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV3.PNG) <br />
 $$X_d=\frac{X_u}{1+k_1r^{2}+k_2r^{4}}$$
 $$Y_d=\frac{Y_u}{1+k_1r^{2}+k_2r^{4}}$$
-where *X_d* and *Y_d* are the point's distorted pixel coordinates and $r=\sqrt$
+where *X_d* and *Y_d* are the point's distorted pixel coordinates and $r=\sqrt{X_u^{2}+Y_u^{2}}$
 ## Results
 **I/P image** <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/3.%20Thinning%20Applied%20to%20Optical%20Character%20Recognition/Results/CV1.png) <br /><br />

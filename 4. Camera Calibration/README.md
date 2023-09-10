@@ -30,3 +30,10 @@ $$Y_f=\frac{1}{dY}Y_d+C_Y$$
 where $C_X$ and $C_Y$ denote the center of the frame in the hardware, $\frac{N_{fX}}{N_{cX}}$ is the #sensor elements in the CCD along the *x*-direction, $\frac{1}{dX}$ and $\frac{1}{dY}$ are the physical distances between the sensor elements and $S_X$ is the difference in the separation between consecutive elements along the *x* and *y*-directions. <br /><br />
 ## Procedure
 **The world as seen by the cameras:** <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam0_World.png) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam1_World.png) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam2_World.png) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam3_World.png) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam3_World.png) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/Cam5_World.png) <br />
+**The grids as detected by the cameras:** <br />

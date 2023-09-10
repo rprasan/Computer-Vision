@@ -50,3 +50,5 @@ where $C_X$ and $C_Y$ denote the center of the frame in the hardware, $\frac{N_{
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV4.PNG) <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV5.PNG) <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV6.PNG) <br /><br />
+**Tracking objects using the calibrated camera network:** <br />
+![]() <br />

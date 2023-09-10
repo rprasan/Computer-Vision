@@ -9,3 +9,9 @@ $$\overrightarrow{A}\cdot \overrightarrow{B}=|a||b|cos(\theta)$$
 where $A$ is the 3D coordinates of the average surface normal of the region, $B$ is the 3D coordinates of the surface normal of the new pixel, |a| is the magnitude of $A$, |b| is the magnitude of $B$ and $\theta$ is the deviation. As we are interested in the deviation and not the dot product, the above expression is modified as follows:
 $$\theta=cos^{-1}\biggl(\\frac{\overrightarrow{A}\cdot \overrightarrow{B}}{|a||b|}\biggr)$$
 When the code's execution reaches a point where no new pixels can be added to a growing region, the region is considered to have fully grown and evolved into an image segment.
+
+# Results:
+**Grayscale image of the object:** <br />
+**Range image of the object:** <br />
+**Threshold image with the background separated from the foreground:** <br />
+**Segmented image:** <br />

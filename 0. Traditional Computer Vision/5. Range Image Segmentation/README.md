@@ -12,9 +12,9 @@ When the code's execution reaches a point where no new pixels can be added to a 
 
 # Results:
 **Grayscale image of the object:** <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/5.%20Range%20Image%20Segmentation/Results/CV1.PNG) <br /><br />
-**Range image of the object:** <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/5.%20Range%20Image%20Segmentation/Results/CV2.PNG) <br /><br />
+**Range image of the object:** <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/5.%20Range%20Image%20Segmentation/Results/CV1.PNG) <br /><br />
 **Threshold image with the background separated from the foreground:** <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/5.%20Range%20Image%20Segmentation/Results/CV3.PNG) <br /><br />
 **Segmented image:** <br />

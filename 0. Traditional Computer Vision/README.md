@@ -7,4 +7,4 @@ This repository contains codes written in C for solving various computer vision 
 1. Motion tracking <br />
 1. Active contours <br />
 
-**NB: Repo is being updated**
+**NB: 6. Active Contours is being updated**

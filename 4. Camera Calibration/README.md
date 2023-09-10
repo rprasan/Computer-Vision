@@ -51,11 +51,11 @@ where $C_X$ and $C_Y$ denote the center of the frame in the hardware, $\frac{N_{
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV5.PNG) <br />
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV6.PNG) <br /><br />
 **Tracking objects using the calibrated camera network:** <br />
-Region of interest:
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/3_Tracking1.PNG) <br />
-Tracking both a human and a chair:
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/3_Tracking2.PNG) <br />
-Tracking a human when the pixel brightness threshold is 150:
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/3_Tracking3.PNG) <br />
-Tracking a human when the pixel brightness threshold is 170:
-![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/3_Tracking4.PNG) <br />
+Region of interest:<br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/3_Tracking1.PNG) <br /><br />
+Tracking both a human and a chair:<br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/3_Tracking2.PNG) <br /><br />
+Tracking a human when the pixel brightness threshold is 150:<br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/3_Tracking3.PNG) <br /><br />
+Tracking a human when the pixel brightness threshold is 170:<br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/3_Tracking4.PNG) <br /><br />

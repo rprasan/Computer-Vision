@@ -22,19 +22,10 @@ Radial distortions, as illustrated in the below figure, can be corrected by empl
 ![](https://github.com/rprasan/Computer-Vision/blob/main/4.%20Camera%20Calibration/Results/CV3.PNG) <br />
 $$X_d=\frac{X_u}{1+k_1r^{2}+k_2r^{4}}$$
 $$Y_d=\frac{Y_u}{1+k_1r^{2}+k_2r^{4}}$$
-where $X_d$ and $Y_d$ are the point's distorted pixel coordinates and $r=\sqrt{X_u^{2}+Y_u^{2}}$
-## Results
-**I/P image** <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/3.%20Thinning%20Applied%20to%20Optical%20Character%20Recognition/Results/CV1.png) <br /><br />
-**Template image** <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/3.%20Thinning%20Applied%20to%20Optical%20Character%20Recognition/Results/CV2.png) <br /><br />
-**Normalized MSF image** <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/3.%20Thinning%20Applied%20to%20Optical%20Character%20Recognition/Results/CV3.png) <br /><br />
-**ROC curve: comparison between OCR with and without thinning**  <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/3.%20Thinning%20Applied%20to%20Optical%20Character%20Recognition/Results/Image1.jpg) <br /><br />
-The ROC curves indicate that the optimum values of *T* with and without thinning are 206 and 211 respectively. In other words, thinning eliminates a lot of 'false positives' to cause the curve to shift to the left, resulting in superior performance.<br /><br />
-**Thinning example for the letter *e***  <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/3.%20Thinning%20Applied%20to%20Optical%20Character%20Recognition/Results/ThinningExample.png) <br /><br />
-**Execution terminal**  <br />
-![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/3.%20Thinning%20Applied%20to%20Optical%20Character%20Recognition/Results/ExecutionWindow.png) <br /><br />
-
+where $X_d$ and $Y_d$ are the point's distorted pixel coordinates and $r=\sqrt{X_u^{2}+Y_u^{2}}$. <br /><br />
+**Real pixel coordinates to computer digitized coordinates** <br />
+The following expressions help digitize and store the point's real pixel coordinates in a computer's physical memory: <br />
+$$X_f=S_X\frac{N_{fX}}{N_{cX}}\frac{1}{dX}X_d+C_X$$
+$$Y_f=\frac{1}{dY}Y_d+C_Y$$
+where $C_X$ and $C_Y$ denote the center of the frame in the hardware, $\frac{N_{fX}}{N_{cX}}$ is the #sensor elements in the CCD along the *x*-direction, $\frac{1}{dX}$ and $\frac{1}{dY}$ are the physical distances between the sensor elements and $S_X$ is the difference in the separation between consecutive elements along the *x* and *y*-directions. <br /><br />
+## Procedure

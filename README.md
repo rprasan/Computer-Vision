@@ -5,3 +5,6 @@ This repository contains codes written in Python using PyTorch for implementing 
 Numpy <br />
 Matplotlib <br />
 PyTorch <br />
+
+# Sample solutions:
+![]() <br />

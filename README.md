@@ -6,4 +6,4 @@ Numpy <br />
 Matplotlib <br />
 PyTorch <br />
 
-**NB: 5. Object Detection is being updated**
+**NB: 0. Traditional Computer Vision and 5. Object Detection are being updated**

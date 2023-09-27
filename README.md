@@ -5,3 +5,5 @@ This repository contains codes written primarily in Python (using PyTorch) for i
 Numpy <br />
 Matplotlib <br />
 PyTorch <br />
+
+**NB: 5. Object Detection is being updated**

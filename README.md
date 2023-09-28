@@ -7,7 +7,7 @@ Matplotlib <br />
 PyTorch <br />
 
 **Sample solutions:** <br />
-![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Deep%20Q%20Learning/Results/Environment%202/Seed%206/Test%20Video.gif) <br />
-![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Blackbox%20Optimization%20Techniques/Environment%202/Seed%201/Test%20Video.gif) <br /><br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/5.%20Range%20Image%20Segmentation/Results/CV5.PNG) <br />
+![](https://github.com/rprasan/Computer-Vision/blob/main/0.%20Traditional%20Computer%20Vision/6.%20Active%20Contours/Results/20191212_235932.gif) <br /><br />
 
 **NB: 0. Traditional Computer Vision and 5. Object Detection are being updated**
